@@ -1,0 +1,14 @@
+#footer .double-separator { margin:50px 0; }
+.onepage-title { font-size:48px; font-weight:300; margin-bottom:30px; line-height:56px; }
+.one-page #header { background:#fafafa; }
+.bgtitle { margin-bottom:20px; height:25px; padding-bottom:7px; border-bottom:1px solid #efefef; }
+.bgtitle h2, .homepage-clients h2 { font-size: 13px; font-weight: 600; float: left; height: 26px; line-height: 26px; background: #f7f7f7; padding: 0 10px; text-transform: uppercase; }
+.team-member { position:relative; background: white; margin-bottom:20px; background:#f7f7f7; }
+.team-member a { overflow: hidden; display: block; position: relative; }
+.team-avatar { height:auto; width:100%; display:block; }
+.team-text h3 { font-size:12px; font-weight:600; text-align:center; clear:both; text-transform:uppercase; padding-top:18px; margin-bottom:3px; }
+.team-text h6 { text-align:center; font-size:12px; font-weight:400; padding-bottom:15px; margin:0; }
+#footer{text-align:center;font-size:12px;color:#a3a4a6;height:180px;background:#353535}
+.gongshang{ position:absolute; top:10px; right:200px;}
+#footer a { color:#fff; }
+#footer h3 { font-size:16px; font-weight:300; color:#fff; }

@@ -1,0 +1,186 @@
+@charset "utf-8";
+/* CSS Document */
+#footer {
+	width:100%;
+	min-width:1280px;
+}
+
+.helpcenter {
+    height:172px;
+	margin-top:40px;
+	background:url("bg_helpcenter.jpg")/*tpa=http://www.sogouhb.com/images/bg_helpcenter.jpg*/ repeat-x;
+}
+
+.helpcenter dt, .helpcenter .attention a, .close, .icon_tip, .tipPop .close {
+    background:url("sprite_icon.20130327.png")/*tpa=http://www.sogouhb.com/images/sprite_icon.20130327.png*/ no-repeat scroll 0 0 transparent;
+}
+
+.helpcenter .wraper {
+    padding-top:20px;
+	position:relative;
+}
+
+.wraper {
+    margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+}
+
+.cls:after {
+    clear:both;
+	content:"";
+	display:block;
+	font-size:0;
+	height:0;
+	visibility:hidden;
+}
+
+#footer .footernav {
+    padding:0;
+	margin:0px;
+	float:left;
+	width:100%;
+}
+
+#footer dl {
+    float:left;
+	overflow:hidden;
+	width:150px;
+	margin:0px;
+	padding:0px 0px 0px 50px;
+}
+
+.helpcenter .help_fresh dt {
+    background-position:left -21px;
+}
+
+.helpcenter dt {
+    color:#004280;
+	font-family:"microsoft yahei";
+	font-size:14px;
+	line-height:26px;
+	padding-left:28px;
+}
+
+.helpcenter dd {
+    padding:5px 0 0 28px;
+	width:121px;
+	_width:150px;
+	float:left;
+	margin:0px;
+}
+
+.helpcenter dd ul {
+    margin:0px;
+	padding:0px;
+	list-style:none;
+}
+
+.helpcenter li, .helpcenter dd a {
+    height:22px;
+	line-height:22px;
+	white-space:nowrap;
+}
+
+.helpcenter a {
+    color:#7C7D7E;
+	text-decoration:none;
+}
+
+.helpcenter a:hover {
+    color:#7C7D7E;
+	text-decoration:underline;
+}
+
+.helpcenter .help_pay dt {
+    background-position:left -52px;
+}
+
+.helpcenter .help_delivery dt {
+    background-position:12px -83px;
+}
+
+.helpcenter .help_service dt {
+    background-position:4px -114px;
+}
+
+.helpcenter .help_cooperate dt {
+    background-position:5px -146px;
+}
+
+.helpcenter .help_about dt {
+    background-position:5px -175px;
+}
+
+.helpcenter .attention, .helpcenter .attention span {
+    background-image:url("bg_attention.png")/*tpa=http://www.sogouhb.com/images/bg_attention.png*/;
+	background-repeat:no-repeat;
+}
+
+.helpcenter .attention {
+    background-position:right -29px;
+	height:20px;
+	line-height:20px;
+	padding:5px 16px 4px 0;
+	position:absolute;
+	right:0;
+	top:-28px;
+}
+
+.helpcenter .attention span {
+    background-position:left 0;
+	display:inline-block;
+	float:left;
+	height:20px;
+	left:-5px;
+	margin:-5px auto;
+	overflow:hidden;
+	padding:6px 0 3px 16px;
+	top:0;
+	position:relative;
+}
+
+.helpcenter .attention .sina {
+    background-position:left -274px;
+}
+
+.helpcenter .attention a {
+    float:left;
+	display:inline-block;
+	font-size:0;
+	line-height:0;
+	height:20px;
+	margin:2px 0 0 18px;
+	overflow:hidden;
+	text-indent-20000px;
+	vertical-align:middle;
+	width:20px;
+}
+
+.footer {
+    line-height:28px;
+	text-align:center;
+	padding:12px 0 20px;
+}
+
+.footer p {
+    color:#8F9192;
+}
+
+.footer a {
+    color:#484848;
+	text-decoration:none;
+}
+
+.footer a:hover {
+    color:#1B549A;
+	text-decoration:none;
+}
+
+.mt10 {
+    margin-top:10px;
+}
+
+.mr10 {
+    margin-right:10px;
+}

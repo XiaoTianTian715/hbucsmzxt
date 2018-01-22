@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hbucsm"
+  id="myeclipse.1514272516842"
+  context-root="/hbucsm"
+  j2ee-spec="5.0"
+  archive="hbucsm.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
